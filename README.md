@@ -1,7 +1,10 @@
 # Python for AI course
 Created by [Mohamed Yosef 101](mohamedyosef101.github.io)
 
+المحتوى متوفر أيضا باللغة [العربية](https://github.com/mohamedyosef101/Python-for-AI/tree/main/Arabic)
+
 <br>
+
 
 
 Python is one of the most common programming languages these days because it is clear and simple (it's like writing in a plain English). 
@@ -22,8 +25,8 @@ First of all, we are no going to focus on the code itself. Instead, we are going
 <br>
 
 ## Course Outline
-- Lec 1. Variables, data types, conditions
-- Lec 2. Lists, loops, string, libraries
+- Lec 1. Variables, data types, and conditions
+- Lec 2. Lists, strings, and loops
 - Lec 3. Working with data
 - Lec 4. DNA translation
 - Lec 5. Language processing
