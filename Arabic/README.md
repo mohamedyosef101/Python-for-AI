@@ -21,9 +21,9 @@ if degree > 70:
 <br>
 
 ## محتويات الكورس
-- محاضرة 1. Variables, data types, conditions
-- محاضرة 2. Lists, loops, string, libraries
-- محاضرة 3. Working with data
+- محاضرة 1. المتغيرات، أنواع البيانات، الدوال، والحالات الشرطية
+- محاضرة 2. القوائم، النصوص، والحلقات التكرارية
+- محاضرة 3. التعامل مع ملفات البيانات
 - محاضرة 4. DNA translation
 - محاضرة 5. Language processing
 - محاضرة 6. Linear Regression
